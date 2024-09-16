@@ -14,6 +14,3 @@ By the end of the project, users should be able to interact with the application
 5. Generate the API KEY from "https://aistudio.google.com/app/apikey" and paste in the main.py file line number 10.
 6. Run the flask app in the terminal now with command "flask run"
 7. Port is provided. Click on the port it will open in your default browser.
-
-## Run
-The repository also contains the exe file for the app to run and test.You can download it directly and test it.
